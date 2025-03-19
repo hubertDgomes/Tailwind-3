@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --spacing-containerHead: 1170px; 
+    --font-navFont: "Inter", "sans-serif"; 
+    --color-primary: #5956E8; 
+  }
